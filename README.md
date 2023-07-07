@@ -1,5 +1,5 @@
 # DreamTracker
-> 基于vue的梦想追踪器
+> 基于Vue的梦想追踪器
 
 ### Vue3 + FLask + BootStrap5 + MySql
 
